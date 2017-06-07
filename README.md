@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## TinyMCE Coding Cheat Sheet
 
-You can use the [editor on GitHub](https://github.com/StaymanHou/tinymce-coding-cheat-sheet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the sheat sheet for tinymce defualt content output. It specifies the default styles the text editor uses in the generated content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can go to [http://StaymanHou.github.io/tinymce-coding-cheat-sheet](http://StaymanHou.github.io/tinymce-coding-cheat-sheet) for the live page.
 
 ### Markdown
 
